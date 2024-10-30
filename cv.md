@@ -54,6 +54,11 @@ myCities.forEach((city, index) => console.log(cityInfo(city, index)))
 
 Web development courses at Aroken.ru online school (completed)
 
-![image][1]
+![image](https://Wasiliy_Baishev.jpg)
 
-[1]: (https://Wasiliy_Baishev.jpg)
+---
+
+### Languages:
+
+- **Russian**- native speaker.
+- **English**- A2.
