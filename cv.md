@@ -54,7 +54,7 @@ myCities.forEach((city, index) => console.log(cityInfo(city, index)))
 
 Web development courses at Aroken.ru online school (completed)
 
-![image](https://Wasiliy_Baishev.jpg)
+![image](/rsschool-cv/Wasiliy_Baishev.jpg)
 
 ---
 
